@@ -1,0 +1,10 @@
+{
+  "name": "devil",
+  "version": "0.0.0",
+  "description": "barrage engine base on react and websocket",
+  "repository": "git@github.com:youngerheart/devil",
+  "private": true,
+  "devDependencies": {
+    "web-node-server": ">0.0.0"
+  }
+}
