@@ -1,2 +1,2 @@
-# devil
-barrage engine base on react and websocket
+# danmaku
+barrage engine base on websocket
