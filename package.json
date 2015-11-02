@@ -1,10 +1,10 @@
 {
-  "name": "devil",
+  "name": "danmaku",
   "version": "0.0.0",
-  "description": "barrage engine base on react and websocket",
-  "repository": "git@github.com:youngerheart/devil",
+  "description": "barrage engine base on websocket",
+  "repository": "git@github.com:youngerheart/danmaku",
   "private": true,
   "devDependencies": {
-    "web-node-server": ">0.0.0"
+    "web-node-server": "^0.0.0"
   }
 }

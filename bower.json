@@ -1,7 +1,7 @@
 {
-  "name": "devil",
+  "name": "danmaku",
   "version": "0.0.0",
-  "homepage": "https://github.com/youngerheart/devil",
+  "homepage": "https://github.com/youngerheart/danmaku",
   "authors": [
     "youngerheart"
   ],
@@ -17,6 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "react": ">=0.12.0"
+
   }
 }
